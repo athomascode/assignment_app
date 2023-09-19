@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.counter-section {
+  display: inline-block;
+}
+
+.input-section {
+  display: block;
+}
+
+.result-section {
+  border: 1px solid black;
+  background-color: yellow;
+  height: 40px;
+  width: 40px;
+  padding: 20px;
+  margin: 10px;
 }
